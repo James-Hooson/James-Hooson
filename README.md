@@ -14,6 +14,7 @@ At Dev Academy Aotearoa, I discovered a passion for building solutions rather th
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+---------------------------------------------------
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Knex.js](https://img.shields.io/badge/Knex.js-D26B38?style=for-the-badge&logo=knex.js&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
@@ -21,6 +22,8 @@ At Dev Academy Aotearoa, I discovered a passion for building solutions rather th
 ![Nock](https://img.shields.io/badge/Nock-FF6B6B?style=for-the-badge&logo=nock&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+
+
 ## 📫 How to reach me
 - https://www.linkedin.com/in/james-hooson-92a750393/
 - Jmhooson@hotmail.com
