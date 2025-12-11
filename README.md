@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a junior developer with six years of security operations experience at Te Herenga Waka Victoria University of Wellington, where I progressed from Foot Patrol to Security Assistant. In my roles, I:
+I'm a junior developer with six years of security operations experience at Te Herenga Waka Victoria University of Wellington, where I progressed from Foot Patrol to Security Assistant. In my roles I :
 
 - Managed real-time monitoring of **400 CCTV cameras**
 - Coordinated security for VIP visits including Prime Ministers Jacinda Ardern and John Key
