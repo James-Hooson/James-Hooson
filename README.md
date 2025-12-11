@@ -49,7 +49,9 @@ At **Dev Academy Aotearoa**, I discovered personal enjoyment for building soluti
 
 ---
 
-## 📫 Let's Connect!
+<div align="center">
+  📫 Let's Connect!
+</div>
 
 <div align="center">
 
