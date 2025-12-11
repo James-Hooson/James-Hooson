@@ -19,4 +19,4 @@ At Dev Academy Aotearoa, I discovered a passion for building solutions rather th
 
 ## 📫 How to reach me
 - https://www.linkedin.com/in/james-hooson-92a750393/
-- [LinkedIn/Twitter/Email/Website]
+- Jmhooson@hotmail.com
